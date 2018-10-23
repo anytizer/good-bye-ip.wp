@@ -12,6 +12,10 @@ How to install?
 
 Your plugin is ready. Install/upload it to your WordPress.
 
+I want to **reupload** the plugin with new set of IP Addresses.
+* First delete the existing plugin from your server.
+* Then reupload.
+
 ## Caution
 Do not enter your current IP address in the list.
 Otherwise, you will have to delete the plugin manually using FTP.
